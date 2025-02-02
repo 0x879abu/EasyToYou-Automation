@@ -15,7 +15,7 @@ Este programa utiliza **Selenium + PyQt6** para fornecer uma interface gráfica 
 
 ## 🖥️ Captura de Ecrã  
 
-![screenshot](https://via.placeholder.com/800x400?text=EasyToYou+AutoDecoder+UI)  
+![screenshot]([https://via.placeholder.com/800x400?text=EasyToYou+AutoDecoder+UI](https://github.com/mesofranico/EasyToYou-Automation/blob/main/easytoyou.png))  
 
 ## 🔧 Requisitos
 
