@@ -13,10 +13,8 @@ Este programa utiliza **Selenium + PyQt6** para fornecer uma interface gráfica 
 ✅ Barra de progresso e logs em tempo real  
 ✅ Navegador invisível para execução em segundo plano  
 
-## 🖥️ Captura de Ecrã  
-
-![screenshot]([https://via.placeholder.com/800x400?text=EasyToYou+AutoDecoder+UI](https://github.com/mesofranico/EasyToYou-Automation/blob/main/easytoyou.png))  
-
+## 🖥️ Captura de Ecrã   
+![screenshot](easytoyou.png)
 ## 🔧 Requisitos
 
 - **Python 3.8+**  
