@@ -13,10 +13,5 @@ Este programa utiliza **Selenium + PyQt6** para fornecer uma interface gráfica 
 ✅ Barra de progresso e logs em tempo real  
 ✅ Navegador invisível para execução em segundo plano  
 
-## 🖥️ Captura de Ecrã   
-![screenshot](easytoyou.png)
-## 🔧 Requisitos
-
-- **Python 3.8+**  
-- **Google Chrome** (última versão instalada)  
-- **Chromedriver** (instalado automaticamente)  
+## 🖥️ Kaynak Kodu
+Orijinal Kaynak `script.py` Dosyasında Mevcuttur
